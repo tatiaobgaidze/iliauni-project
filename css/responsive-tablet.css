@@ -1,0 +1,292 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    @media screen and (max-width: 1092px) {
+        .second_part {
+            /* padding-top: 50px; */
+        }
+        .mntitle h1 {
+            margin-bottom: 20px;
+        }
+        .left-arrow {
+            margin-bottom: 20px;
+        }
+        .right-arrow {
+            margin-bottom: 20px;
+        }
+    }
+    
+    @media screen and (max-width: 1085px) {
+        .wn {
+            padding-top: 92px;
+        }
+        .second_part {
+            padding-top: 20px;
+            width: 50%;
+        }
+        .ct {
+            margin-bottom: 176px;
+        }
+        .trvl {
+            margin-bottom: 176px;
+        }
+    }
+    
+    @media screen and (max-width: 1019px) {
+        .second_part {
+            padding-top: 20px;
+        }
+    }
+    
+    @media screen and (max-width: 971px) {
+        .socs a {
+            margin-left: 0.875em;
+        }
+    }
+    
+    @media screen and (max-width: 957px) {
+        .image_content {
+            width: 50%;
+        }
+    }
+    
+    @media screen and (max-width: 883px) {
+        .under_img {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        .under_img h1 {
+            font-size: 1em;
+        }
+        .img_text {
+            line-height: 15px;
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+    }
+    
+    @media screen and (max-width: 814px) {
+        .footer_content {
+            flex-direction: column;
+        }
+        .logoinfo_container {
+            width: 100%;
+        }
+        .inputsocscontainer {
+            width: 100%;
+        }
+        .socs {
+            width: 22%;
+            margin-top: 50px;
+        }
+    }
+    
+    @media screen and (max-width: 773px) {
+        .header_second {
+            display: flex;
+            flex-direction: column;
+        }
+        .image_content {
+            width: 100%;
+        }
+        .second_part {
+            width: 100%;
+            padding-top: 40px;
+        }
+        .mn {
+            width: 80%;
+        }
+        .two_content {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+        }
+        .tr_container {
+            width: 50%;
+            padding-left: 30px;
+        }
+        .place_content1 {
+            width: 47%;
+        }
+        .place_content2 {
+            width: 47%;
+        }
+        .place_content3 {
+            display: none;
+        }
+        .mainpart_two {
+            flex-direction: column;
+        }
+        .left_part {
+            width: 100%;
+        }
+        .right_part {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+        }
+        .right_img1 {
+            width: 47%;
+        }
+        .right_img2 {
+            width: 47%;
+        }
+        .right_img3 {
+            display: none;
+        }
+    }
+    
+    @media screen and (max-width: 615px) {
+        .arrow-container {
+            position: relative;
+            width: 90%;
+        }
+    }
+    
+    @media screen and (max-width: 457px) {
+        .ct {
+            margin-bottom: 159px;
+        }
+        .trvl {
+            margin-bottom: 159px;
+        }
+    }
+    
+    @media screen and (max-width: 327px) {
+        .ct {
+            margin-bottom: 132px;
+        }
+        .trvl {
+            margin-bottom: 132px;
+        }
+    }
+    /* მობაილ მენიუ */
+    
+    @media screen and (max-width: 590px) {
+        .header_container {
+            display: none;
+        }
+        .responsive_heared {
+            display: flex;
+        }
+        .wn {
+            padding-top: 50px;
+        }
+        .two_content {
+            flex-direction: column;
+        }
+        .tr_container {
+            width: 100%;
+        }
+        .tr {
+            margin-top: 15px;
+        }
+        .trending_place {
+            flex-direction: column;
+        }
+        .place_content1 {
+            width: 100%;
+        }
+        .place_content2 {
+            width: 100%;
+        }
+        .right_part {
+            flex-direction: column;
+        }
+        .right_img1 {
+            margin-top: 20px;
+            width: 100%;
+        }
+        .right_img2 {
+            width: 100%;
+        }
+        .right_img3 {
+            display: block;
+            width: 100%;
+        }
+        footer {
+            display: none;
+        }
+    }
+    /* მეორე ფეიჯის რესპონსივი */
+    
+    @media screen and (max-width: 869px) {
+        .wn_content {
+            flex-direction: column;
+        }
+        .bg_content {
+            width: 100%;
+        }
+        .bg_image {
+            border-top-right-radius: 6px;
+            border-bottom-right-radius: 6px;
+            border-bottom-left-radius: 6px;
+        }
+        .sd_content {
+            width: 100%;
+        }
+        .select {
+            width: 64.35vw;
+            padding-top: 60px;
+        }
+        .select select {
+            width: 64.35vw;
+        }
+        .enter {
+            width: 64.35vw;
+        }
+        .enter input {
+            width: 64.35vw;
+        }
+        .butt {
+            width: 64.35vw;
+        }
+        .search {
+            margin-bottom: 20px;
+        }
+        .article_text {
+            width: 100%;
+        }
+        .tablet_content {
+            display: flex;
+        }
+    }
+    
+    @media screen and (max-width: 658px) {
+        .inf_container {
+            flex-direction: column;
+        }
+        .profile {
+            width: 100%;
+        }
+        .main_text1 {
+            width: 100%;
+        }
+        .main_text2 {
+            width: 100%;
+        }
+    }
+    
+    @media screen and (max-width: 537px) {
+        .icon_arrow {
+            display: block;
+        }
+        .story {
+            display: none;
+        }
+        .barr {
+            display: none;
+        }
+        .responsive_bar {
+            display: block;
+        }
+    }
+    
+    @media screen and (max-width: 435px) {
+        .bg_title h1::after {
+            top: 94px;
+        }
+    }
